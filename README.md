@@ -5,9 +5,9 @@
 
 미션: 
 
-||Problem1|Problem2|Problem3|Problem4|Problem5|Problem6|Problem7|
-|---|---|---|---|---|---|---|
-|진행상황|O|O|X|O|O|X|X|
+Problem1|Problem2|Problem3|Problem4|Problem5|Problem6|Problem7
+---|---|---|---|---|---|---
+진행상황|O|O|X|O|O|X|X
 
 ## 🕹 코딩테스트
 기간: 22.11.27
