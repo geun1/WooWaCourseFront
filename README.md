@@ -4,7 +4,8 @@
 기간: 22.10.26 ~ 22.11.22
 
 미션: 
-| |Problem1|Problem2|Problem3|Problem4|Problem5|Problem6|Problem7|
+
+||Problem1|Problem2|Problem3|Problem4|Problem5|Problem6|Problem7|
 |---|---|---|---|---|---|---|
 |진행상황|O|O|X|O|O|X|X|
 
